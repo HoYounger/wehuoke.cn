@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a47e6395-d5de-4edc-8786-8d4a7e5ee899" name="admin.wehuoke.cn" url="http://47.52.146.59">
+        <fileTransfer host="47.52.146.59" port="22" rootFolder="/data/wwwroot/admin.wehuoke.cn" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
